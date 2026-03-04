@@ -1,0 +1,31 @@
+{
+  "envelope_id": "5e8daa68-0483-44fc-b3a2-d759d5cac7ee",
+  "template_id": "nda-mutual",
+  "template_name": "Mutual NDA",
+  "manifest_hash": "092b23a0a0f8b82a09bdd9966fdc4c8a02101f61dfebb0821704ea1324e84ae9",
+  "audit_chain_valid": true,
+  "audit_chain_head": "63bef42f62f27a64ec5af06b795d30f36e381479d28d157e5d5017ab0bac4002",
+  "signer_count": 2,
+  "signers": [
+    {
+      "role": "party_a",
+      "email_hash": "ff8d9819fc0e12bf",
+      "signed_at": "2026-03-04T20:03:43.842Z"
+    },
+    {
+      "role": "party_b",
+      "email_hash": "5ff860bf1190596c",
+      "signed_at": "2026-03-04T20:03:44.404Z"
+    }
+  ],
+  "artifact_hashes": {
+    "original.md": "d2eb27c26b658cf84bd3c225a4b1f188b2ca6df9a00469c83b7e47e1d159d4cb",
+    "field-values.json": "7fcbe8e5d9bbba3bd0d8c63fac4f595551bdd4bd10c4db1a2ff8e54b6c897c96",
+    "audit-trail.json": "cc34964a499830344eda832af71a59960339373df83514b3463ec6401151f7cb",
+    "signed.pdf": "6576d67e978ba4fa6022529ba1d0c00df2764d347b5cd6757ed74a5c8ad53df1",
+    "signatures/party_a.json": "59d94e048f007d9f968c71295d8e13b70be5fba5c5d66dd3338708fa6bd07a13",
+    "signatures/party_b.json": "823e3c7fd0f8598cdc5994b2b9ea387945932f602c242daddd75c798792e0365"
+  },
+  "sealed_at": "2026-03-04T20:03:46.950Z",
+  "anchored_at": "2026-03-04T20:03:46.950Z"
+}
