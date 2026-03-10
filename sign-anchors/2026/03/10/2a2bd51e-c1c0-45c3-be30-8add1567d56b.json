@@ -1,0 +1,25 @@
+{
+  "envelope_id": "2a2bd51e-c1c0-45c3-be30-8add1567d56b",
+  "template_id": "nda-simple-es",
+  "template_name": "Acuerdo de Confidencialidad",
+  "manifest_hash": "0fecc08399fd268a47d7d3d825142910a1dd46ef56445ffb440d814b9da86f1d",
+  "audit_chain_valid": true,
+  "audit_chain_head": "6eb9b2d2c862943b4c8364e171a447dd20f3d996eef5d301145a6959a45a34c0",
+  "signer_count": 1,
+  "signers": [
+    {
+      "role": "recipient",
+      "email_hash": "b9b5526134930eec",
+      "signed_at": "2026-03-10T09:03:43.612Z"
+    }
+  ],
+  "artifact_hashes": {
+    "original.md": "b249eb3bc10523b581c35f17319fb8e444b2a4f55406be084136a4f1368b60aa",
+    "field-values.json": "e04543f383a77b8892fe4ffe699d221a0f20911537c56110fa97759e1f31c5db",
+    "audit-trail.json": "17566184ef0ee53881c2a1169c7d39ddaf0a32e7c2749aa10b029a6754b2b91d",
+    "signed.pdf": "2fb582476985cbf5fed07fe8007a60294b2e03bab658f10f6dcdc52ef18e5694",
+    "signatures/recipient.json": "9e2e184448180c099bf84f097c1b5a7c75b7c07f3724f07a0b04b6334ddcd2a6"
+  },
+  "sealed_at": "2026-03-10T09:03:45.830Z",
+  "anchored_at": "2026-03-10T09:03:45.830Z"
+}
