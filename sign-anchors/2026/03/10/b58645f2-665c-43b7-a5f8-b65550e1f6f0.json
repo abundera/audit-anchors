@@ -1,0 +1,25 @@
+{
+  "envelope_id": "b58645f2-665c-43b7-a5f8-b65550e1f6f0",
+  "template_id": "nda-simple",
+  "template_name": "Simple NDA",
+  "manifest_hash": "977e253e554803b4b7ba0ea8a66a4a49de083d10e92fe165b98dd7d6ec8daba3",
+  "audit_chain_valid": true,
+  "audit_chain_head": "364c5c6fc749350d75763945f4d86389069733f270b2353508608b14e65f276d",
+  "signer_count": 1,
+  "signers": [
+    {
+      "role": "recipient",
+      "email_hash": "b9b5526134930eec",
+      "signed_at": "2026-03-10T00:24:25.664Z"
+    }
+  ],
+  "artifact_hashes": {
+    "original.md": "bf278ba0af0d96dca88f88a9a54ffffac208f8462d3f14c494199a6863549696",
+    "field-values.json": "ff804c4490dd3b0ff8abfeaf95a9aecf1c1606275fbfb7c3638c944c11e48a3d",
+    "audit-trail.json": "5e7c095b34deff8a0d2c7feafbeed8bd369d042a68d2fdb20e82c32c8b983976",
+    "signed.pdf": "9473285992d55a428e14bd104454bfdf95fbc75e8ea89b66bb868b92122c2286",
+    "signatures/recipient.json": "56abf0637349b7350189d3038976798e6cfdcbbf42faed55418ae1ae7a8320de"
+  },
+  "sealed_at": "2026-03-10T00:24:27.834Z",
+  "anchored_at": "2026-03-10T00:24:27.834Z"
+}
