@@ -1,0 +1,25 @@
+{
+  "envelope_id": "19b341c2-3b8d-42cf-bdfc-baeddf08ab04",
+  "template_id": "accredited-investor-questionnaire",
+  "template_name": "Accredited Investor Questionnaire",
+  "manifest_hash": "191faf6aaa7cb98fdf2d99b7b696c085b77f2a860e003cf3b97b752df0b16db9",
+  "audit_chain_valid": true,
+  "audit_chain_head": "ae08f7b6efe7ef766413903e31f6e530801e92d53d8d4f3b027cabb622e3c5c3",
+  "signer_count": 1,
+  "signers": [
+    {
+      "role": "investor",
+      "email_hash": "b9b5526134930eec",
+      "signed_at": "2026-03-12T02:12:00.880Z"
+    }
+  ],
+  "artifact_hashes": {
+    "original.md": "d30c33457aa8eb29e5af594e14c2526e6ff21fcff3d0da355c8ff8feb6fcaf3e",
+    "field-values.json": "87e73eb78784af093f8bc9862147299bbbed66d985e9501a1cb4f8067091d07a",
+    "audit-trail.json": "58e3a92411cce5aa8d019e202fd0742fba3d7e2d89da77f4fe90350439c7fa9a",
+    "signed.pdf": "593ec0bea811569e127e892e4f4c8b7ed0f468d041cfa3a1f72dfa393a39896c",
+    "signatures/investor.json": "869ba6f13c3424f9870bcc8cb97a5d135c5e4133fbeab9ca88d55e721f899a9b"
+  },
+  "sealed_at": "2026-03-12T02:12:03.555Z",
+  "anchored_at": "2026-03-12T02:12:03.555Z"
+}
