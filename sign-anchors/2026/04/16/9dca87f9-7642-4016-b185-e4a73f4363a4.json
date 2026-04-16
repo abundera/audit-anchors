@@ -1,0 +1,25 @@
+{
+  "envelope_id": "9dca87f9-7642-4016-b185-e4a73f4363a4",
+  "template_id": "board-resolution",
+  "template_name": "Board of Directors Resolution",
+  "manifest_hash": "00639b06eace44177dd583bd8f49b5e23777f358446354b22a31acae740ba50f",
+  "audit_chain_valid": true,
+  "audit_chain_head": "7a94fcd14ccd31472a136a6b38f50f80edcb82613c3b36640c3e57c8f3f36966",
+  "signer_count": 1,
+  "signers": [
+    {
+      "role": "secretary",
+      "email_hash": "597bb6f1167072f3",
+      "signed_at": "2026-04-16T19:44:33.166Z"
+    }
+  ],
+  "artifact_hashes": {
+    "original.md": "1d73f5c8af7613fa81915571d185406a10b9b2edfb9d71a3f2e3d8ce295fd33f",
+    "field-values.json": "99f47e6d798afdf2dfb4418132379196f54e790393a0e9f23ef2c01be4da89d9",
+    "audit-trail.json": "9ab4d28b62104f40993b6ed9b13ae32082cd758212110ad58d38a64b2c828358",
+    "signed.pdf": "b8c172d2c950cf652af68d60a6561a5e4483c192719da6f86dbf9debdd42a0ea",
+    "signatures/secretary.json": "67d9880390ec2c1e43a9d72f79c2d061a647af12f801a1b9f8d21b8b1b91a6a7"
+  },
+  "sealed_at": "2026-04-16T19:44:36.349Z",
+  "anchored_at": "2026-04-16T19:44:36.349Z"
+}
