@@ -1,0 +1,13 @@
+{
+  "envelope_id": "19667d63-514a-4f73-a7a7-e6620485e9f9",
+  "template_id": "accredited-investor-questionnaire",
+  "template_name": "Accredited Investor Questionnaire",
+  "manifest_hash": "e2bfdfcddd379aff4590a839e495fa1a7458957c24ba401e8c15087c444dc761",
+  "manifest_hash_sha512": "d98394ebca58fd69191bebd7af4509242d27537826e30eb51db8a7b5d356dfcab764cc49227ac478953e97296a2c97960b2d87ad547fef8db886332d0330756b",
+  "audit_chain_valid": true,
+  "audit_chain_head": "bfdfb9a5a15a49312377df1eb5f22a5b6a43655ad85b2222e92f0d4141d7e00a",
+  "signer_count": 1,
+  "signer_count_artifacts": 5,
+  "sealed_at": "2026-05-04T23:31:13.122Z",
+  "anchored_at": "2026-05-04T23:31:13.122Z"
+}
