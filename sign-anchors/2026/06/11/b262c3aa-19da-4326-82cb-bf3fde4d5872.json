@@ -1,0 +1,13 @@
+{
+  "envelope_id": "b262c3aa-19da-4326-82cb-bf3fde4d5872",
+  "template_id": "abundera-contractor-acknowledgment",
+  "template_name": "Abundera Contractor Acknowledgment",
+  "manifest_hash": "b4147f17f9bd39b76635da1895f838e5d14cc32eea4e53db2d13c4c995adf1a6",
+  "manifest_hash_sha512": "c9536bd12c6df1b8a5653c56486150d5bae60ab5c9941100d049c3de84c6bc2c41b6e8d082365e0a685bc89433c001b0b5f1e9478470f0ebb4c49be0e377b377",
+  "audit_chain_valid": true,
+  "audit_chain_head": "f0ab52ad48205139a1170cef46c63adb9fde317a319711636573c9b490494982",
+  "signer_count": 1,
+  "signer_count_artifacts": 5,
+  "sealed_at": "2026-06-11T05:13:16.459Z",
+  "anchored_at": "2026-06-11T05:13:16.459Z"
+}
