@@ -1,0 +1,13 @@
+{
+  "envelope_id": "9c53e091-4557-4e84-ae0a-697030724be5",
+  "template_id": "abundera-mutual-nda",
+  "template_name": "Abundera Mutual NDA",
+  "manifest_hash": "0709e477979cd26c61395b8c9059d566f0ce66c514ba3402c8f754305aa1ed76",
+  "manifest_hash_sha512": "7419e2aabc220ba2941b9215c2d47949ab1aad44c5ad62536d23596cbbe86a8a2884bbf6865bef6e2a8f9b83bbbce8ac052b7c0222b79053817f263bfd06ff1b",
+  "audit_chain_valid": true,
+  "audit_chain_head": "4cb76178b049804dd8fc3b0a7c1986b6110c70fd8d7a82f9990580b87c9db583",
+  "signer_count": 2,
+  "signer_count_artifacts": 6,
+  "sealed_at": "2026-06-11T04:27:11.248Z",
+  "anchored_at": "2026-06-11T04:27:11.248Z"
+}
