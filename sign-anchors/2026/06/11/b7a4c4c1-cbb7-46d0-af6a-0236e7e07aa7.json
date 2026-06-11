@@ -1,0 +1,13 @@
+{
+  "envelope_id": "b7a4c4c1-cbb7-46d0-af6a-0236e7e07aa7",
+  "template_id": "abundera-barbarians-services",
+  "template_name": "Abundera and Barbarians Services Agreement",
+  "manifest_hash": "8b6c8607809a0429cb332bd6526db7ae5a03859a54ac8ae501146623075e9763",
+  "manifest_hash_sha512": "ef67a024f031a3f41baeccdf7682608d65c453b1e5e6a2c252d40758a85f46d7569faaba37b34c8de0d1f7a19ae97245e50afd3fe2e93726d107eb4de96b4613",
+  "audit_chain_valid": true,
+  "audit_chain_head": "868aa751a328aef6a8d61b0d58f2bea30d826ca02d965e3fa805ec100b6b0521",
+  "signer_count": 2,
+  "signer_count_artifacts": 6,
+  "sealed_at": "2026-06-11T04:27:58.641Z",
+  "anchored_at": "2026-06-11T04:27:58.641Z"
+}
