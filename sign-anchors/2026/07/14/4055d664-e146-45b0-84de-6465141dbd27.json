@@ -1,0 +1,13 @@
+{
+  "envelope_id": "4055d664-e146-45b0-84de-6465141dbd27",
+  "template_id": "nda-mutual--env-4055d664",
+  "template_name": "Mutual NDA",
+  "manifest_hash": "358d8707c383c18ebbf93c2541a0c0e47e48d87ae7fe0470b9d3897871e45f2c",
+  "manifest_hash_sha512": "93cbc784d4193e22c1b39cc655a2f65f077565d4f9ccb90e78edeca1bc2eebf7a30d4f6d8380c9e638bbfc00fcd14b4f00977b36522488d5c9aff336faf6a7cc",
+  "audit_chain_valid": true,
+  "audit_chain_head": "71c612858469a3843e9af4d01b9e9390727bd148e305ce8cfa63b2f62059f983",
+  "signer_count": 2,
+  "signer_count_artifacts": 8,
+  "sealed_at": "2026-07-14T16:25:20.428Z",
+  "anchored_at": "2026-07-14T16:25:23.067Z"
+}
