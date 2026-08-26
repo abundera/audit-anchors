@@ -1,0 +1,10 @@
+{
+  "anchor_id": 3000,
+  "start_id": 2880,
+  "end_id": 3000,
+  "entry_count": 121,
+  "segment_hash": "52e4268004c5f800bd725b8ec7436b3caeff35f1df36cfec6d3d379f71fa862f",
+  "previous_anchor_hash": "90ba97043709949ff8176e140ab579e9302c92e448256acccbee7c5ced6f90dc",
+  "previous_anchor_id": 2879,
+  "created_at": "2026-08-26T17:00:42.278Z"
+}
