@@ -1,0 +1,13 @@
+{
+  "envelope_id": "1c56f547-09cc-4158-94f8-da48c1416aad",
+  "template_id": "nda-simple",
+  "template_name": "Simple NDA",
+  "manifest_hash": "32d4989a6499c580e6f173cc052bf89832054159e9ff9a82fb5e2096287287c2",
+  "manifest_hash_sha512": "62d9cba9edcc6633e1953e6b00183fd13c8392bca5877a618e22f90dfdb3f574f2718474f67173705899de6d54099ac48fc42612e8c2ac03559a65973435b7b4",
+  "audit_chain_valid": true,
+  "audit_chain_head": "70ca70edc0fcb60161d4f97e7ecf2cd86a23f6d5ce07ddb3d0952587ccbd413e",
+  "signer_count": 1,
+  "signer_count_artifacts": 5,
+  "sealed_at": "2026-08-27T19:51:18.619Z",
+  "anchored_at": "2026-08-27T19:51:21.454Z"
+}
