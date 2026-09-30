@@ -1,0 +1,13 @@
+{
+  "envelope_id": "f4812dc9-015e-439b-ae58-56d54d7bb221",
+  "template_id": "auralytic-founder-shares-consent",
+  "template_name": "Auralytic Incorporated: Director Consent, Founder Shares and Stock Ledger",
+  "manifest_hash": "30ed448f8ecb091434890a25e515cd265caa5a096d6689161206cfbe6bfece00",
+  "manifest_hash_sha512": "90b47151eff539dbf34183d83ef8484d1ae1f2bd26dbb5520f962f19cd14dd36c5a34edd76cacb0e6c3b0b7f8e9afcb99dfaecdc44d9e6861e0727fc295b49ec",
+  "audit_chain_valid": true,
+  "audit_chain_head": "ec74621b83c4807377444b0228d9e5ec44c06c41ed8152d5ff15250091f873be",
+  "signer_count": 1,
+  "signer_count_artifacts": 6,
+  "sealed_at": "2026-09-30T00:59:45.894Z",
+  "anchored_at": "2026-09-30T00:59:48.764Z"
+}
