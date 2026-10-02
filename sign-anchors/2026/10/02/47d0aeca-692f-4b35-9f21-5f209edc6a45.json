@@ -1,0 +1,13 @@
+{
+  "envelope_id": "47d0aeca-692f-4b35-9f21-5f209edc6a45",
+  "template_id": "abundera-breachlock-pentest-authorization",
+  "template_name": "Abundera and BreachLock: Pentest Authorization (Abundera.ai API, October 2026)",
+  "manifest_hash": "e021dcee785948a08a8ffb92582d9c4bdd23860531acb0694859da1132104363",
+  "manifest_hash_sha512": "6346b57d945c518b49e0eb9dee1d1b9b17d41c8e67397e40baef2e34528d1e93f547d0e2f681b71862f09ea2bcc09112bf9f0d12f200ef1aee4e84bbbb834ac7",
+  "audit_chain_valid": true,
+  "audit_chain_head": "9e421f5a90bee6b77f26ff403f2caca14a0300ce2c8da123886080fd6d268396",
+  "signer_count": 2,
+  "signer_count_artifacts": 8,
+  "sealed_at": "2026-10-02T02:43:02.488Z",
+  "anchored_at": "2026-10-02T02:43:05.846Z"
+}
